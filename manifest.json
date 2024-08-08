@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Link Modifier",
+  "version": "1.0",
+  "description": "Change youtube.com to youtubepp.com when Ctrl + I is pressed.",
+  "permissions": ["tabs", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "modify_youtube_link": {
+      "suggested_key": {
+        "default": "Ctrl+I"
+      },
+      "description": "Change youtube.com to youtubepp.com"
+    }
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
