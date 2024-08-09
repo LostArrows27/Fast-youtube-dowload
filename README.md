@@ -7,7 +7,7 @@
 
 ### About the extension
 
-- A super simple chrome extension that help you dowload youtube video quickly by just clicking Ctrl + I 🤠😎
+- A super simple chrome extension that help you dowload youtube video quickly by just clicking Ctrl + I in the youtube video page you want to dowload 🤠😎
 
   <div align="center">
     <img src="https://github.com/user-attachments/assets/4e44c5e1-6b34-457d-9978-3b6cf79bb68c" alt="Logo" width="500">
